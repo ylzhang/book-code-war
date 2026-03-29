@@ -1,0 +1,24 @@
+# GitBook
+_book/
+node_modules/
+
+
+
+# IDE
+.trae/
+.vscode/
+.idea/
+.claude/
+.cursor/
+
+raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.log
+*.tmp
+
+

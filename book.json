@@ -1,0 +1,47 @@
+{
+  "title": "代码的战争：从代码到机器人",
+  "subtitle": "一个技术亲历者讲述的30年数字文明战争",
+  "description": "立足全球视野，穿梭于硅谷与中国，见证科技浪潮三十年变迁的宏大科技商业史诗",
+  "author": "技术亲历者",
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "back-to-top-button",
+    "chapter-fold",
+    "splitter",
+    "page-toc-button",
+    "anchor-navigation-ex",
+    "copy-code-button",
+    "edit-link",
+    "github"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba"
+    },
+    "edit-link": {
+      "base": "https://github.com/ylzhang/CodeWar/edit/main",
+      "label": "编辑本页"
+    },
+    "github": {
+      "url": "https://github.com/ylzhang/CodeWar"
+    },
+    "anchor-navigation-ex": {
+      "showLevel": true,
+      "associatedWithSummary": true
+    },
+    "page-toc-button": {
+      "maxTocDepth": 3,
+      "minTocSize": 3
+    }
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "styles": {
+    "website": "styles/website.css"
+  }
+}
