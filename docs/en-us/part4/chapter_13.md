@@ -6,13 +6,11 @@ Marc Raibert stood in the laboratory at MIT, staring at a mechanical leg that wa
 
 He was a professor at MIT, researching bionic robots. His team developed a single-leg hopping robot that could maintain stability through active balance. This was a breakthrough in robot control.
 
-In 2005, Raibert left MIT and founded Boston Dynamics. His goal was to develop robots that could move like animals.
+In 1992, Raibert founded Boston Dynamics. His goal was to develop robots that could move like animals.
 
 Boston Dynamics' first product was BigDog, a quadruped robot used to carry equipment for soldiers. It could walk on rough terrain and stand up after being pushed over.
 
-In 2013, Boston Dynamics released Atlas, a bipedal humanoid robot. It could walk, jump, and do backflips. The video went viral on YouTube, and people marveled at its agility.
-
-It stood up.
+Boston Dynamics unveiled the Atlas humanoid in 2013; a backflip video in 2017 went viral on YouTube, and people marveled at its agility.
 
 It stood up.
 
@@ -22,9 +20,9 @@ But Boston Dynamics never found a business model. It was successively acquired b
 
 **Meanwhile, on the other side of the Earth.**
 
-2016. Shenzhen.
+2016. Hangzhou.
 
-Wang Xingxing founded Unitree in Shenzhen.
+Wang Xingxing founded Unitree in Hangzhou.
 
 He was a robotics enthusiast who had developed quadruped robots during college. He found that Boston Dynamics' robots were too expensive, costing hundreds of thousands of dollars. He wanted to make a cheap quadruped robot that ordinary people could afford.
 
@@ -52,7 +50,7 @@ But this method has limitations. Models are approximations, and the real world i
 
 The new method is "reinforcement learning." Robots try repeatedly in simulation environments and learn how to move. They don't need precise models; they only need to define reward functions: the farther and more stable they walk, the higher the reward.
 
-Reinforcement learning allows robots to learn more flexible ways of moving. Boston Dynamics' Atlas can do backflips, trained through reinforcement learning.
+Reinforcement learning allows robots to learn more flexible ways of moving. Atlas's backflip relied more on precise model-predictive control and hydraulic actuation—an engineering-control achievement.
 
 But reinforcement learning also has problems. There are differences between simulation environments and the real world; skills learned in simulation may not transfer to the real world. This is called the "sim-to-real gap."
 

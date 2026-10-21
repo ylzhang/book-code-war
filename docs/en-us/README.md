@@ -8,7 +8,7 @@
 
 This is not a dry technical textbook, but a **30-year epic of digital civilization told by a technology insider**.
 
-From Marc Andreessen writing the first line of browser code in the NCSA server room in 1994, to OpenAI releasing GPT-5 in 2026—the author takes you through the browser wars, the rise of social networks, the explosion of mobile internet, the AI large model revolution, all the way to the era of embodied intelligence where robots grow bodies.
+From Marc Andreessen writing the first line of browser code in the NCSA server room in 1994, to OpenAI releasing GPT-5 in 2025—the author takes you through the browser wars, the rise of social networks, the explosion of mobile internet, the AI large model revolution, all the way to the era of embodied intelligence where robots grow bodies.
 
 **What You'll Read:**
 
@@ -163,7 +163,7 @@ A technologist with a global perspective, shuttling between Silicon Valley and C
 - **Genre**: Technology Business History
 - **Time Span**: 1994 - 2026
 - **Core Method**: Double Helix Narrative + Two-Sided Market Analysis
-- **GitHub**: <https://github.com/ylzhang/CodeWar>
+- **GitHub**: <https://github.com/ylzhang/book-code-war>
 
 ---
 

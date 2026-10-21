@@ -2,9 +2,9 @@
 
 October 2007. San Francisco.
 
-Industrial designers Joe Gebbia and Brian Chesky couldn't afford their rent anymore. The rent was $1,150, and their bank account only had a few thousand dollars left.
+Industrial designers Joe Gebbia and Brian Chesky couldn't afford their rent anymore. The rent was $1,150, and their bank account only had a few thousand dollars left. Engineer Nathan Blecharczyk later joined as the third co-founder.
 
-Chesky wore a plaid shirt, his hair slightly messy. He was an industrial designer from New York, a graduate of the Rhode Island School of Design. Gebbia was his roommate, also from RISD, a quiet programmer.
+Chesky wore a plaid shirt, his hair slightly messy. He was an industrial designer from New York, a graduate of the Rhode Island School of Design. Gebbia was his roommate, also from RISD, an industrial designer.
 
 One weekend, San Francisco was hosting an international design conference, and hotels were fully booked. Chesky noticed many attendees couldn't find accommodation.
 
@@ -34,7 +34,7 @@ Trust became the currency.
 
 Four men were eating hot pot in a restaurant, discussing a crazy idea.
 
-James Liang, 31, graduated from Fudan University's youth class, PhD in Economics from Stanford. He wore glasses, spoke slowly, but his eyes sparkled with ambition.
+James Liang, 31, graduated from Fudan University's youth class and later earned a Stanford economics PhD (around 2011). He wore glasses, spoke slowly, but his eyes sparkled with ambition.
 
 Neil Shen, 32, Yale MBA, investment banker at Deutsche Bank. He wore exquisite suits, had agile thinking, and was extremely sensitive to numbers.
 

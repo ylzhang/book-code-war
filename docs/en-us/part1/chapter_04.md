@@ -314,7 +314,7 @@ Code is neutral. But the people who write the code, the companies that operate t
 
 **August 19, 2004**: Google listed on NASDAQ.
 
-Opening price $85, closing price $100.34. Company market cap $27 billion.
+Offer price $85, opening price about $100, closing price $100.34. Company market cap $27 billion.
 
 Page and Brin wrote a letter at the IPO, beginning with: "Google is not a conventional company. We do not intend to become one."
 
@@ -332,11 +332,11 @@ The concentration of power is a double-edged sword. It can bring vision, or it c
 
 The result of network effects: product value grows exponentially with the number of users. The search engine market shows a "winner-takes-all" pattern—more users → more data → more accurate algorithms → more users.
 
-**Ten years later, 2014**: Google reorganized into Alphabet; Page and Brin retreated behind the scenes, handing daily management to Sundar Pichai. But control remained in their hands.
+**Ten years later, 2015**: Google reorganized into Alphabet; Page and Brin retreated behind the scenes, handing daily management to Sundar Pichai. But control remained in their hands.
 
-**Twenty years later, 2024**: OpenAI launched ChatGPT, and Google launched Gemini. Search is shifting from "keyword matching" to "conversational AI." But the essence of search hasn't changed: helping users find the information they want.
+**Twenty years later, 2024**: ChatGPT had already reshaped search entry points; Google launched Bard in 2023 and Gemini in December 2023. Search is shifting from "keyword matching" to "conversational AI." But the essence of search hasn't changed: helping users find the information they want.
 
-**Thirty years later, 2054**: When AI can directly answer all questions, do search engines still exist? When large models can generate any content, how do we distinguish truth from falsehood?
+**Thirty years later, 2034**: When AI can directly answer all questions, do search engines still exist? When large models can generate any content, how do we distinguish truth from falsehood?
 
 The destiny of code depends on the people holding the keyboard.
 

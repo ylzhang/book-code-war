@@ -20,21 +20,19 @@ The era of gasoline cars was over.
 
 **Meanwhile, on the other side of the Earth.**
 
-2003. Shenzhen.
+1995. Shenzhen.
 
-Wang Chuanfu registered a company named BYD in Shenzhen.
-
-He initially made batteries. BYD's nickel-cadmium batteries and lithium-ion batteries became suppliers for mobile phone manufacturers like Nokia and Motorola.
+Wang Chuanfu founded BYD, initially making nickel-cadmium and lithium-ion batteries that supplied Nokia, Motorola, and other phone makers.
 
 In 2003, BYD acquired Qinchuan Automobile and entered the automotive industry. Wang Chuanfu's judgment was: electric vehicles are the future, batteries are the core of electric vehicles, and BYD has battery technology that can be transformed into car manufacturing.
 
-This judgment was considered crazy at the time. The electric vehicle market in 2003 was almost zero. Toyota's Prius was a hybrid, not a pure electric. Tesla had not yet been founded.
+This judgment was considered crazy at the time. The electric vehicle market in 2003 was almost zero. Toyota's Prius was a hybrid, not a pure electric. Tesla was founded the same year.
 
 But Wang Chuanfu persisted. BYD launched the F3DM, a plug-in hybrid car. It was not successful, but it accumulated experience.
 
 In 2015, BYD launched the Tang, a plug-in hybrid SUV. It achieved success in the Chinese market, becoming the best-selling new energy SUV.
 
-By 2020, BYD had become one of the world's largest electric vehicle manufacturers, with annual sales exceeding 400,000 units.
+By 2020, BYD sold about 430,000 new energy vehicles, ranking among the global leaders.
 
 ---
 
@@ -56,7 +54,7 @@ Battery technology evolution:
 
 Lithium iron phosphate: Good safety, low cost, low energy density. BYD's Blade Battery is an innovation in lithium iron phosphate batteries, improving energy density and safety by changing the cell structure.
 
-Ternary lithium: High energy density, high cost, slightly lower safety. Tesla uses ternary lithium batteries, and CATL mainly produces ternary lithium batteries.
+Ternary lithium: High energy density, high cost, slightly lower safety. Tesla used ternary cells on premium models and adopted LFP widely on standard-range cars from 2021; CATL is a leading supplier of both LFP and ternary chemistries.
 
 Solid-state batteries: Use solid electrolytes, with higher energy density and better safety. But the technology is not yet mature, and mass production timing is uncertain.
 

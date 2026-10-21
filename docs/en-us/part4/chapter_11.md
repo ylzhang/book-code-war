@@ -100,7 +100,7 @@ Perplexity is an "answer engine." Users input questions; Perplexity doesn't retu
 
 Perplexity's success proves that users prefer direct answers rather than searching through links themselves.
 
-Google was forced to respond. In 2023, Google launched Bard, then renamed it Gemini. But Gemini's performance was not as good as ChatGPT, and Google's stock price was affected.
+Google was forced to respond. In 2023, Google launched Bard; Gemini followed in December 2023. Early comparisons favored ChatGPT on several benchmarks, and Google's stock price was affected.
 
 Microsoft saw the opportunity. It invested $10 billion in OpenAI and integrated ChatGPT into Bing search. Bing's market share began to rise.
 
@@ -124,17 +124,15 @@ AI is not replacing content platforms but changing the way content is produced a
 
 ---
 
-DeepSeek is a Chinese AI company. In 2024, it released DeepSeek-V3, shocking the global AI community.
+On December 26, 2024, DeepSeek officially released and open-sourced DeepSeek-V3.
 
-DeepSeek-V3's performance is comparable to GPT-4o, but the training cost is only a few million dollars—one-tenth of GPT-4o.
+DeepSeek-V3's performance is comparable to GPT-4-class models, but training cost was only a few million dollars—a fraction of frontier closed models.
 
-DeepSeek's success proves that Chinese companies can also develop world-class large language models.
+Founder Liang Wenfeng came from quantitative trading; his firm had built large GPU clusters years before the current AI boom and brought an obsession with compute efficiency into large-model training.
 
-More importantly, DeepSeek-V3 is open source. Anyone can download, use, and modify this model. This is a challenge to closed-source models and a push for AI democratization.
+DeepSeek's engineering innovations on open MoE architectures—DeepSeekMoE, MLA, and related techniques—activate only part of the model per token, cutting cost.
 
-DeepSeek's founder, Liang Wenfeng, believes that computing efficiency is the key to AI development. Under the background of computing power blockade, Chinese companies cannot obtain the most advanced GPUs and can only make up for it through efficiency.
-
-"Americans have their advantages, and we also have our advantages," Liang Wenfeng said. "We have the world's largest manufacturing industry, the most complete supply chain, and the richest application scenarios. These advantages can be transformed into AI advantages."
+On January 20, 2025, DeepSeek-R1 further shook markets with reinforcement-learning-driven reasoning. DeepSeek-V3's open weights let developers worldwide download, use, and modify the model—a challenge to closed-source monopoly.
 
 ---
 
@@ -154,15 +152,11 @@ AI is powerful, but AI is not omnipotent.
 
 ---
 
-**Epilogue: 2026**
+**Epilogue: August 7, 2025**
 
-GPT-5 is released.
+OpenAI rolled out GPT-5 to ChatGPT users. By the book's March 2026 dateline, debate continues over whether it is merely a stronger chat model or the entry point to true agents—but multi-step assistance across apps is already real.
 
-It is no longer just a chatbot but an "agent." It can browse the web, operate software, and execute tasks. You tell it "help me book a flight to New York," and it opens the airline website, queries flights, chooses the most suitable one, and completes the booking.
-
-You don't need to open any APP. You just need to talk to GPT-5.
-
-Is the APP dying?
+Is the APP dying? Still an open question.
 
 The destiny of code depends on the people holding the keyboard.
 

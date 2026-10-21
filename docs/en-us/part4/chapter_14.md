@@ -1,28 +1,18 @@
 # Chapter 14 (Epilogue): Standing at the Crossroads of 2026 — Kill the APP, or Let Code Grow a Soul?
 
-March 2026. Silicon Valley.
+On August 7, 2025, OpenAI shipped GPT-5 to ChatGPT users. Sam Altman called it a major leap in reasoning, coding, and multimodal use.
 
-OpenAI released GPT-5.
+By March 2026—the book's dateline—the industry still debates whether GPT-5 is "just" a stronger chat model or the gateway to agents. It can help browse the web and chain multi-step tasks; you tell it "help me book a flight to New York," and with permission it can query flights and complete booking. You may not need ten apps open—but platform and regulatory boundaries are still being redrawn.
 
-Sam Altman stood on the stage at the launch event, wearing a gray hoodie. There was both excitement and a hint of caution in his eyes. He knew that the release of this product would change everything.
-
-GPT-5 is no longer just a chatbot but an "agent." It can browse the web, operate software, and execute tasks. You tell it "help me book a flight to New York," and it opens the airline website, queries flights, chooses the most suitable one, and completes the booking.
-
-You don't need to open any APP. You just need to talk to GPT-5.
-
-The APP is obsolete.
+Is the APP obsolete? Not settled yet.
 
 ---
 
 **Meanwhile, Beijing.**
 
-Liang Wenfeng stood in DeepSeek's office, watching the data jump on the screen. DeepSeek-V4's downloads were soaring. He wore a simple T-shirt, his eyes focused and calm.
+After DeepSeek-R1 shocked the world in January 2025, Liang Wenfeng's team watched open-source download curves climb. V3 and R1 weights were forked, distilled, and embedded into vertical apps across China.
 
-DeepSeek-V4 can not only understand your intent and call various services but also run locally. You tell it "help me order takeout," and it opens Meituan, chooses your favorite restaurant, places the order, and pays.
-
-You don't need to open the Meituan APP. You just need to talk to DeepSeek.
-
-This is the ultimate form of the "intent-driven network": AI becomes the entry point for all services, and APPs become the backend of AI.
+Large models arrive as APIs, open weights, and phone assistants (such as Doubao) more often than as a single replacement for every super-app. Yet the outline of the intent-driven network is clear: users state needs; AI calls Meituan, Ctrip, or enterprise backends while apps retreat to the background.
 
 Are APPs being "killed"?
 
@@ -82,21 +72,13 @@ But Altman also faces questions. OpenAI's transformation from a non-profit organ
 
 Altman's response is: "We need to be cautious, but we also need to move forward. The benefits of AGI outweigh the risks."
 
-By 2026, OpenAI is training GPT-5. According to internal sources, GPT-5 is close to the threshold of AGI. It can reach or exceed human levels on most intellectual tasks.
-
-If GPT-5 truly achieves AGI, it will be the most important moment in human history.
+GPT-5 is shipped, but AGI remains a distant label. Altman stresses safety and alignment in public; what the world sees is fiercer model competition, not overnight human-level general intelligence.
 
 ---
 
-Liang Wenfeng believes that computing efficiency is the key to AI development. Under the background of computing power blockade, Chinese companies cannot obtain the most advanced GPUs and can only make up for it through efficiency.
+Liang Wenfeng believes computing efficiency is central under export controls. DeepSeek-V3 (December 2024) and R1 (January 2025) approached frontier closed models at far lower training cost while keeping weights open. As of March 2026, the next flagship is still in development and rumor—but the "efficiency versus blockade" path is proven.
 
-"Americans have their advantages, and we also have our advantages," Liang Wenfeng said. "We have the world's largest manufacturing industry, the most complete supply chain, and the richest application scenarios. These advantages can be transformed into AI advantages."
-
-DeepSeek-V4 was released in March 2026, once again shocking the global AI community. Its performance surpasses GPT-4o, but the training cost is only one percent of GPT-4o.
-
-More importantly, DeepSeek-V4 chose to be completely open source. Anyone can download, use, and modify this model. This is a challenge to closed-source models and a push for AI democratization.
-
-Liang Wenfeng's vision is: to make AI inclusive, so that everyone can enjoy the benefits of AI. "AI should not be the patent of a few big companies," he said. "It should be the wealth of all humanity."
+His vision is inclusive AI through open weights and reproducible research—not rhetoric alone.
 
 ---
 

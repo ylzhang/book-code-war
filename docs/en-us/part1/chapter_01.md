@@ -1,6 +1,6 @@
 # Chapter 1: The Shattered Glass of Netscape and the Faint Light of Submarine Cables
 
-December 1994. A blizzard had wrapped the University of Illinois at Urbana-Champaign into an island.
+Late autumn 1993. A blizzard had wrapped the University of Illinois at Urbana-Champaign into an island.
 
 When Marc Andreessen pushed open the door to the NCSA machine room, a gust of air hit him—a mixture of heating, dust, and the acrid smell of overheating circuit boards. He took off his glasses, wiped the fog from the lenses with his sweater sleeve, and put them back on. Only then could he see the dozens of server indicator lights blinking in the darkness, like an ocean of electronic fireflies.
 
@@ -20,7 +20,7 @@ For the next three months, they worked secret overtime. By day, they maintained 
 
 Now, the code was finally running.
 
-Andreessen walked to his own workstation and peeled off his snow-dampened coat. The monitor was still on, its blue-white glow conspicuous in the dim machine room. He took a deep breath and typed the test command on the keyboard. In the browser window, a test image slowly loaded—the University of Illinois logo, an orange-red wild boar, striking against the black background.
+Andreessen walked to his own workstation and peeled off his snow-dampened coat. The monitor was still on, its blue-white glow conspicuous in the dim machine room. He took a deep breath and typed the test command on the keyboard. In the browser window, a test image slowly loaded—the University of Illinois logo, the orange-and-blue Illinois logo, striking against the black background.
 
 The moment the image finished loading, Andreessen felt an electric current shoot up his spine.
 
@@ -36,7 +36,7 @@ Bina emerged from behind another row of servers and stared at the screen. His fa
 
 "Not just works," Andreessen said, his eyes gleaming. "It changes the game."
 
-He clicked the mouse and opened another test page in the browser. This time, it was a landscape photo—the cornfields of Champaign, golden stalks glittering in the sunset. The photo loaded slowly. At 56K modem speeds of only 7KB per second, this 80KB photo took over ten seconds to fully render, line by line scrolling down the screen. But when it finally appeared, the impact made Andreessen forget the anxiety of waiting.
+He clicked the mouse and opened another test page in the browser. This time, it was a landscape photo—the cornfields of Champaign, golden stalks glittering in the sunset. The photo loaded slowly. At 28.8K modem speeds of only about 3KB per second, this 80KB photo took over twenty seconds to fully render, line by line scrolling down the screen. But when it finally appeared, the impact made Andreessen forget the anxiety of waiting.
 
 This was the future. This was the future of the internet. Not academic materials in plain text, but multimedia for the masses.
 
@@ -46,9 +46,9 @@ This was the future. This was the future of the internet. Not academic materials
 
 "Screw it," Andreessen said, a sly smile playing at the corner of his mouth. "We'll release it first and ask for forgiveness later."
 
-In December 1994, Mosaic Browser version 2.0 was released, with the `<img>` tag as a standard feature. Downloads exploded within a week—from a few hundred to a few thousand, then tens of thousands. NCSA's servers were crushed by the traffic. People were desperate for this browser that could display images.
+In January 1993, Mosaic was released to the public with the `<img>` tag. Downloads exploded within a week—from a few hundred to a few thousand, then tens of thousands. NCSA's servers were crushed by the traffic. People were desperate for this browser that could display images.
 
-Andreessen stood by the window of the machine room, looking out at the campus blurred by the blizzard. He knew his life was about to change. Three months later, he left NCSA and went to Silicon Valley.
+Andreessen stood by the window of the machine room, looking out at the campus blurred by the blizzard. He knew his life was about to change. In early 1994, he left NCSA and went to Silicon Valley.
 
 ---
 
@@ -58,11 +58,9 @@ Jim Clark sat in a corner of a restaurant, a cup of cold coffee in front of him.
 
 But SGI was declining. The graphics performance of personal computers was getting better and better, and SGI's expensive workstations were losing their market. Clark had clashed with the board and resigned in a fit of anger. Now, with several million dollars in hand, he was looking for the next big opportunity.
 
-His gaze fell on the newspaper in front of him—an article about the Mosaic browser. Apparently, two young men from the University of Illinois had written a browser that could display images on web pages, and downloads had already exceeded one million.
+He read an article about the Mosaic browser—two young men from the University of Illinois had written a browser that could display images on web pages, and downloads had already exceeded one million. Clark emailed Andreessen.
 
-Clark picked up the phone and dialed a number.
-
-"Hello, Marc Andreessen? This is Jim Clark. I saw the browser you made. I want to meet you."
+"Marc, this is Jim Clark. I saw the browser you made. I want to meet you."
 
 Three days later, Andreessen flew to Silicon Valley. They met at a restaurant in Palo Alto. Andreessen wore jeans and a T-shirt, looking like a college student—in fact, he was a college student. Clark wore a casual suit, his hair already starting to gray, but his eyes were still sharp.
 
@@ -134,7 +132,7 @@ But this was not a victory of technology; it was a victory of network effects. T
 
 Meanwhile, on the other side of the Earth.
 
-In 1994, in Beijing's Zhongguancun, a company called InfoHighway was setting up China's first internet access point. Zhang Shuxin, the company's founder, stood in the machine room, watching technicians debug the equipment. The servers were imported from the United States, shockingly expensive. The modems were Hayes, several hundred dollars each.
+In April 1994, China achieved full Internet connectivity through the NCFC project. Later, in 1995, a company called InfoHighway in Beijing's Zhongguancun began offering public dial-up access. Zhang Shuxin, the company's founder, stood in the machine room, watching technicians debug the equipment. The servers were imported from the United States, shockingly expensive. The modems were Hayes, several hundred dollars each.
 
 "What's the bandwidth?" Zhang Shuxin asked.
 

@@ -18,7 +18,7 @@ Back in San Francisco, they began developing the app. They found a third partner
 
 In June 2010, UberCab launched in San Francisco. Initially, it only partnered with limousine companies, offering premium transportation services. The price was higher than taxis, but the experience was better: black sedans, professional drivers, no cash needed.
 
-In 2011, Uber began partnering with ordinary drivers, launching the UberX service. The price was cheaper than taxis, and anyone could become a driver.
+In July 2012, Uber began partnering with ordinary drivers, launching the UberX service. The price was cheaper than taxis, and anyone could become a driver.
 
 Uber's expansion was astonishing. In 2011, Uber entered New York, Chicago, and Seattle. In 2012, Uber entered London, Paris, and Toronto. By 2015, Uber covered over 300 cities worldwide.
 

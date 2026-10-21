@@ -184,7 +184,7 @@ ASML's monopoly stems from its unique technical accumulation and supply chain in
 
 Chip manufacturing and data center operations both require massive amounts of electricity.
 
-**TSMC's Energy Consumption**: An advanced process wafer fab consumes over 7 billion kWh annually, equivalent to the electricity consumption of a small city. TSMC's electricity consumption in 2023 accounted for 7.2% of Taiwan's total. Taiwan had to restart nuclear power plants and build offshore wind power to meet TSMC's expansion needs.
+**TSMC's Energy Consumption**: An advanced process wafer fab consumes over 7 billion kWh annually, equivalent to the electricity consumption of a small city. TSMC's electricity consumption in 2023 accounted for 7.2% of Taiwan's total. Taiwan had to accelerate offshore wind, gas, and storage buildout to meet TSMC's expansion needs.
 
 **Data Center Energy Consumption**: Training GPT-4 consumed electricity equivalent to 5,000 US households' annual consumption. NVIDIA H100 GPU power consumption is 700W; one server with 8 GPUs exceeds 5kW. A data center with 100,000 servers consumes over 5 billion kWh annually.
 
@@ -199,7 +199,7 @@ The competition for computing power is essentially a competition for energy. Who
 
 In the summer of 2021, I attended an AI conference in Silicon Valley. In the exhibition hall, NVIDIA's booth was the most eye-catching—dozens of A100 servers lined up, the fan hum like a low engine. I reached out and touched the metal surface of the heat sink; it was so hot I jerked my hand back. An engineer said: "This row can process a library per second." At that moment, computing power was no longer a concept to me; it was temperature.
 
-In the winter of 2019, I walked into an AI company's server room. Opening the door, cold air hit me, and a low hum filled my ears. Rows of racks were densely packed with black card slots filled with GPUs—A100s, V100s, each worth tens of thousands of dollars. Lights flickered on metal heat sinks, like some kind of industrialized ganglion. At that moment, I realized: this silent hardware was reshaping human cognition of intelligence at a speed of trillions of floating-point operations per second. Computing power is not abstract; it is a physical existence that can be seen, touched, and heard.
+In the summer of 2020, I walked into an AI company's server room. Opening the door, cold air hit me, and a low hum filled my ears. Rows of racks were densely packed with black card slots filled with GPUs—newly launched A100s and prior-generation V100s, each worth tens of thousands of dollars. Lights flickered on metal heat sinks, like some kind of industrialized ganglion. At that moment, I realized: this silent hardware was reshaping human cognition of intelligence at a speed of trillions of floating-point operations per second. Computing power is not abstract; it is a physical existence that can be seen, touched, and heard.
 
 2015 was the year of the deep learning explosion.
 
@@ -231,21 +231,17 @@ This is a kind of power. And power needs to be examined.
 
 ---
 
-**Epilogue: May 25, 2023**
+**Epilogue: May 29, 2023**
 
-Jensen Huang stood on the stage at Computex in Taipei, wearing a black leather jacket, holding a chip in his hand.
+Jensen Huang stood on the Computex stage in Taipei in his black leather jacket, showcasing data-center products for generative AI. The H100 had been announced in 2022 and was among the most sought-after AI accelerators; he had said at GTC in March 2023, "We are at the iPhone moment of AI."
 
-This was the H100, NVIDIA's latest AI chip. It contains 80 billion transistors and is the world's most powerful AI accelerator.
+H100 chips cost tens of thousands of dollars each, and customers queued for months.
 
-Jensen Huang said: "We are at the iPhone moment of AI."
-
-The price of H100 is $30,000 per chip. But demand is so strong that customers need to queue for months to get it.
-
-OpenAI uses H100 to train GPT-4. Microsoft uses H100 to build Azure AI services. Tesla uses H100 to train autonomous driving models.
+OpenAI trained GPT-4 on A100 clusters before scaling H100 deployments. Microsoft uses H100 to build Azure AI services. Tesla uses H100 to train autonomous driving models.
 
 NVIDIA's stock price soared. In 2023, NVIDIA's market cap broke through $1 trillion, becoming the world's most valuable chip company.
 
-Jensen Huang's net worth exceeded $30 billion. He became the richest Chinese person.
+Jensen Huang's net worth exceeded $30 billion, placing him among the world's wealthiest executives.
 
 Thirty years ago, he made graphics cards for gamers. Thirty years later, he makes brains for the AI era.
 

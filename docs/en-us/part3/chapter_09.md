@@ -30,9 +30,9 @@ An app called Musical.ly was exploding among American teenagers. Users could rec
 
 Musical.ly's founders were two Chinese: Alex Zhu and Luyu Yang. They developed this app in Shanghai and unexpectedly became popular in the American market.
 
-ByteDance noticed Musical.ly. In November 2017, ByteDance acquired Musical.ly for nearly $1 billion, merged it with their short video app Douyin, and launched the international version TikTok.
+ByteDance noticed Musical.ly. In November 2017, ByteDance acquired Musical.ly for nearly $1 billion and merged it into the existing international TikTok app in August 2018.
 
-TikTok's spread was astonishing. In 2018, TikTok became the most downloaded app in the US. By 2019, TikTok's global monthly active users exceeded 1 billion.
+TikTok's spread was astonishing. In 2018, TikTok became the most downloaded app in the US. In September 2021, TikTok's global monthly active users exceeded 1 billion.
 
 TikTok's success marked the first breakthrough of a Chinese internet company in the global market.
 
@@ -74,13 +74,15 @@ The core of deep learning recommendation models is: represent users and content 
 
 **Prediction**: Calculate the similarity between user vector and content vector (such as dot product) to predict the user's interest level in the content.
 
-ByteDance developed multiple deep learning recommendation models:
+Industry-standard deep learning recommendation models include:
 
-**Wide & Deep**: Combines linear models and deep models. Linear models memorize historical feature combinations; deep models generalize new feature combinations.
+**Wide & Deep** (Google, 2016): Combines linear models and deep models. Linear models memorize historical feature combinations; deep models generalize new feature combinations.
 
-**DeepFM**: Combines Factorization Machines (FM) and deep neural networks. FM captures second-order interactions between features; deep networks capture high-order interactions.
+**DeepFM** (Huawei, 2017): Combines Factorization Machines (FM) and deep neural networks. FM captures second-order interactions between features; deep networks capture high-order interactions.
 
-**DIN (Deep Interest Network)**: Dynamically adjusts user interest vectors based on candidate content. Users have different interests for different types of candidate content.
+**DIN (Deep Interest Network)** (Alibaba, 2018): Dynamically adjusts user interest vectors based on candidate content. Users have different interests for different types of candidate content.
+
+ByteDance iterated many internal models on these foundations for Toutiao and Douyin.
 
 Training these models requires massive amounts of data. ByteDance processes hundreds of petabytes of data daily; training models requires thousands of GPUs.
 
@@ -122,7 +124,7 @@ ByteDance's rise challenged the dominance of Google and Facebook.
 
 While ByteDance was racing ahead, another company was doing recommendations with a completely different philosophy.
 
-In 2011, GIF Kuaishou was still a tool for making GIF animations. Founder Su Hua looked at backend data and found that users were not only using Kuaishou to make animations but also sharing life clips.
+In 2011, Cheng Yixiao's GIF Kuaishou was still a tool for making GIF animations. He looked at backend data and found that users were not only using Kuaishou to make animations but also sharing life clips. In 2013, Su Hua joined and helped push Kuaishou into short video.
 
 Su Hua wore black-rimmed glasses and spoke slowly. He had worked at Google, participating in search engine development. He knew the power of technology and its limitations.
 
@@ -222,7 +224,7 @@ But 5G's impact on short videos is not as significant as 4G. Short videos are al
 
 Recommendation algorithms are not just code. Behind them is terrifying hardware investment.
 
-ByteDance has built multiple ultra-large-scale data centers in China. Just in Tianjin, the data center cluster deploys tens of thousands of NVIDIA GPUs. Recommendation system training clusters use A100/H100 GPUs, with each card priced at over $20,000. Training a complete recommendation model once requires thousands of GPUs computing in parallel for days.
+ByteDance has built multiple ultra-large-scale data centers in China. Just in Tianjin, the data center cluster deploys tens of thousands of NVIDIA GPUs. Recommendation system training clusters rely mainly on A100-class GPUs; H100 exports to mainland China were restricted after 2022, so companies mix legacy chips, cloud leases, and domestic accelerators. Training a complete recommendation model once requires thousands of GPUs computing in parallel for days.
 
 But training is just the tip of the iceberg. Inference is the real cost black hole. Every time a user refreshes the information stream, the recommendation system needs to complete the three-level pipeline of recall, ranking, and re-ranking within 100 milliseconds. Global daily active users exceed 1.5 billion, each person refreshing hundreds of times per day—this means tens of millions of inference requests per second. ByteDance has deployed dedicated inference clusters for this, extensively using NVIDIA T4 inference cards. Each T4 consumes only 70 watts, but INT8 inference performance reaches 130 TOPS.
 
@@ -290,7 +292,7 @@ The members' questions were sharp and repetitive. Chew's answers were cautious a
 
 This hearing lasted five hours. It didn't change anything, but it symbolized an era: Chinese internet companies have become protagonists on the global stage, and their every move is under scrutiny.
 
-TikTok's fate remains uncertain. It may be banned, it may be sold, it may continue to operate.
+By January 2026, U.S. regulators approved a joint-venture framework involving investors such as Oracle, clarifying TikTok's legal path in America, though political and regulatory fights continue.
 
 But one thing is certain: the war for attention will continue. Algorithms will continue to feed content, and users will continue to scroll.
 
