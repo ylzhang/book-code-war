@@ -54,7 +54,7 @@ In 1998, America Online acquired ICQ for $287 million. The four Israeli founders
 
 **Meanwhile, on the other side of the Earth.**
 
-Late autumn 1998. Shenzhen Huaqiangbei.
+Autumn 1999. Shenzhen Huaqiangbei.
 
 Room 402, Building 2, Seg Technology Park—an office less than 100 square meters. Boxes of instant noodles were stacked in the corner, and the air was thick with the mixed smell of cheap cigarettes and coffee. Five desks were crammed together, computer screens emitting blue-white light like the eyes of five ghosts.
 

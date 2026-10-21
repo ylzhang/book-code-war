@@ -28,7 +28,7 @@ Tobias Lütke sat in a coffee shop, writing code.
 
 He was a programmer who had previously opened an online snowboard shop. He found that existing e-commerce platforms were not user-friendly: complex features, high fees, difficult customization. So he decided to write his own.
 
-Using the Ruby on Rails framework, he spent two months writing a concise e-commerce system. He open-sourced this system and named it Shopify.
+Using the Ruby on Rails framework, he spent two months writing a concise e-commerce system. He turned it into a SaaS product and named it Shopify.
 
 Other shop owners discovered Shopify and started using it. Lütke realized that selling software was more promising than selling snowboards. He shifted his focus to Shopify's development.
 
@@ -36,7 +36,7 @@ Shopify's model was: providing e-commerce infrastructure for merchants—website
 
 This model is called "SaaS" (Software as a Service). Merchants don't need to develop their own e-commerce systems; they just rent Shopify's services.
 
-By 2020, there were over 1 million merchants on Shopify, with annual transaction volume exceeding $100 billion. Shopify became the world's second-largest e-commerce platform, after Amazon.
+By 2020, there were over 1 million merchants on Shopify, with annual transaction volume exceeding $100 billion. By GMV, it was one of the largest U.S. e-commerce platforms after Amazon.
 
 ---
 
@@ -72,7 +72,7 @@ This percentage was set by Jobs. He believed that Apple provided developers with
 
 This is the "Apple Tax."
 
-The composition of the Apple Tax is simple: when developers sell apps or in-app purchases through the App Store, Apple takes 30% (reduced to 15% after annual revenue exceeds $1 million).
+The composition of the Apple Tax is simple: when developers sell apps or in-app purchases through the App Store, Apple takes 30% by default (the Small Business Program allows 15% for developers with under $1 million in annual App Store revenue).
 
 This percentage may not seem high, but for some industries, it is fatal. Music streaming service Spotify, game company Epic Games, and dating app Tinder have all publicly opposed the Apple Tax.
 
@@ -90,7 +90,7 @@ Pony Ma wears glasses, speaks gently, but has extremely keen insight. He knows t
 
 WeChat's connectivity makes it the "water, electricity, and coal" of China's internet.
 
-**WeChat Pay**: Launched in 2014, it quickly became one of China's largest mobile payment platforms. WeChat Pay's handling fee is 0.6%, far lower than traditional payment channels.
+**WeChat Pay**: Launched in August 2013, it quickly became one of China's largest mobile payment platforms. WeChat Pay's handling fee is 0.6%, far lower than traditional payment channels.
 
 **Official Accounts**: Launched in 2012, allowing businesses and individuals to publish content on WeChat. Official accounts changed China's content ecosystem, giving birth to the self-media era.
 
@@ -160,7 +160,7 @@ By 2020, Shopify's market cap exceeded $100 billion, becoming the highest-valued
 
 In the 2020s, the Web3 concept emerged. The core idea of Web3 is: use blockchain technology to build decentralized platforms, eliminating middleman commissions.
 
-For example, the NFT marketplace OpenSea initially only charged a 2.5% commission, much lower than traditional art auction houses. The decentralized exchange Uniswap charges no commissions at all, only Gas fees.
+For example, the NFT marketplace OpenSea initially only charged a 2.5% commission, much lower than traditional art auction houses. The decentralized exchange Uniswap v2 charges a 0.3% liquidity-provider fee on trades, plus on-chain Gas fees.
 
 But Web3 also faces challenges. The user experience of decentralized platforms is not as good as centralized platforms. Blockchain transaction speeds are slow and fees are high. Ordinary users find it difficult to understand private keys, wallets, and smart contracts.
 

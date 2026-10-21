@@ -22,7 +22,7 @@ That morning, Bezos sat at the folding table in the garage, eyes fixed on the or
 
 The first order came in.
 
-A copy of *Fluid Concepts and Creative Analogies*, shipped to a customer in the Netherlands. Bezos packed it himself, wrapped it in bubble wrap, stuck on the address label, then drove to the post office to send it.
+A copy of Douglas Hofstadter's *Fluid Concepts and Creative Analogies*, shipped to Seattle customer John Wainwright. Bezos packed it himself, wrapped it in bubble wrap, stuck on the address label, then drove to the post office to send it.
 
 He stood at the post office counter, watching the clerk put the package into a bag, a strange feeling welling up inside—he was doing something that might change the world.
 
@@ -68,9 +68,9 @@ The war of code had entered a new battlefield.
 
 ---
 
-In 1999, at the Taobao office.
+In May 2003, shortly after Taobao launched.
 
-Programmer Duolong stared at the database error on the screen, frowning. Taobao had only been live for a month, and user volume had exceeded expectations, but the MySQL database was starting to struggle.
+Programmer Duolong stared at the database error on the screen, frowning. User volume had exceeded expectations, but the MySQL database was starting to struggle.
 
 "Order table query timeout," Duolong said to a colleague beside him. "We need to optimize."
 
@@ -88,15 +88,15 @@ Each product has an SKU (Stock Keeping Unit), containing attributes like name, d
 
 Amazon used Oracle databases in its early days. Oracle is powerful, supporting transactions, indexes, and stored procedures, but it has one problem: **expensive**. Oracle charges by CPU core; a single server could cost hundreds of thousands of dollars. Every additional server means linear cost growth.
 
-Taobao chose MySQL. MySQL is open-source and free—no matter how many servers you deploy, there are no additional licensing fees.
+Taobao started with PHP and MySQL. MySQL is open-source and free—no matter how many servers you deploy, there are no additional licensing fees.
 
-But MySQL's performance with large-scale data isn't as good as Oracle. The Taobao team had to deeply customize it, developing technologies like database sharding, read-write separation, and caching layers.
+As traffic grew, Taobao gradually adopted Java and Oracle, deeply customizing database sharding, read-write separation, and caching layers.
 
 Product search is another challenge. Traditional database LIKE queries are too inefficient to support fuzzy searches.
 
 Amazon developed its own search engine A9 in 2003. Taobao developed Ha3 in 2008, supporting hundred-million-level product searches.
 
-The core of search is the inverted index. Each keyword corresponds to a list of products; when searching, the system merges lists from multiple keywords, reducing time complexity from O(n) to O(1).
+The core of search is the inverted index. Each keyword corresponds to a list of products; when searching, the system merges inverted lists from multiple keywords—far faster than scanning the entire catalog, with cost driven by list lengths.
 
 For example: 10 million products, searching for "iPhone 15." In the inverted index, "iPhone" corresponds to 1 million items, "15" corresponds to 500,000 items. The system takes the intersection, finding 100,000 matching products in milliseconds.
 
@@ -140,10 +140,10 @@ Suppose there are 100 items in stock, and 100,000 users are rushing to buy simul
 
 The solution is distributed locks. When a user clicks "buy," the system first acquires a lock for that product. If successful, deduct inventory and release the lock; if failed, return "sold out."
 
-Taobao uses Redis to implement distributed locks. The SETNX command (Set if Not Exists) can atomically acquire a lock:
+Taobao uses Redis to implement distributed locks. A command such as `SET key value NX EX 10` can atomically acquire a lock with expiry:
 
 ```
-SETNX lock:iphone15 1 EX 10  // Set lock, automatically expires after 10 seconds
+SET lock:iphone15 1 NX EX 10  // Set lock, automatically expires after 10 seconds
 ```
 
 If it returns 1, lock acquisition succeeded; returns 0, lock is already held.
@@ -246,7 +246,7 @@ Jack Ma's response was: Taobao is just a marketplace, like offline wholesale mar
 
 This response was acceptable in the early days. But as Taobao's scale expanded, the counterfeit problem became increasingly serious, affecting its reputation.
 
-In 2010, Taobao launched "Tmall" (originally Taobao Mall), only allowing brand merchants to join. Tmall has strict qualification reviews for merchants and quality guarantees for products. Tmall charges higher commissions but provides better user experience.
+In 2008, Taobao launched "Taobao Mall," only allowing brand merchants to join; in 2012 the business was renamed "Tmall." Tmall has strict qualification reviews for merchants and quality guarantees for products. Tmall charges higher commissions but provides better user experience.
 
 The division of labor between Taobao and Tmall gradually became clear: Taobao is the bazaar—cheap, rich, and mixed; Tmall is the mall—authentic, quality, and higher priced.
 
@@ -414,6 +414,6 @@ This is the value of technology—not concepts, but experience.
 
 **Five years later, 2008**: Alipay connected to almost all mainstream banks. Taobao became China's largest e-commerce platform; eBay withdrew from China.
 
-**Ten years later, 2013**: Cainiao Network was established. Alibaba went public with a market cap exceeding $150 billion. Jack Ma became China's richest person.
+**2013**: Cainiao Network was established. **2014**: Alibaba listed on the NYSE with a first-day market cap of about $230 billion. Jack Ma became China's richest person.
 
 **Twenty years later, 2023**: Live e-commerce rose. Douyin and Kuaishou restructured e-commerce with short videos.

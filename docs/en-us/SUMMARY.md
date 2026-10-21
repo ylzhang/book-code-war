@@ -17,7 +17,7 @@
   * Why the Intertwining of Software and Hardware?
 * [Introduction: To the Nameless Code and Burning GPUs](00_introduction.md)
   * December 1994: The `<img>` Tag
-  * November 2023: ChatGPT
+  * November 2022: ChatGPT
   * Three Rewrites of the World
 
 ---
@@ -143,7 +143,7 @@
   * China-US Dual-Core: Software Brain vs. Hardware Body
 
 * [Chapter 14 (Epilogue): Standing at the Crossroads of 2026](part4/chapter_14.md)
-  * GPT-5 and DeepSeek-V4: The Ultimate Form of AI
+  * GPT-5 (2025) and DeepSeek V3/R1: AI at the Crossroads
   * Two Paths: Kill the App vs. Code Grows a Soul
   * China-US AI Dual-Core: Interlock and Competition
   * Insider Perspective: Standing at the Scene of History
@@ -227,5 +227,5 @@
 ---
 
 **Book Version**: English Edition Preview 1.0
-**Last Updated**: March 2025
-**GitHub**: https://github.com/ylzhang/CodeWar
+**Last Updated**: March 2026
+**GitHub**: https://github.com/ylzhang/book-code-war

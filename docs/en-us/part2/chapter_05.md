@@ -64,7 +64,7 @@ But it was a start.
 
 The iPhone was not the first smartphone.
 
-Before it, there was Nokia's Symbian, BlackBerry's BlackBerry OS, Microsoft's Windows Mobile, Palm's webOS.
+Before it, there was Nokia's Symbian, BlackBerry's BlackBerry OS, and Microsoft's Windows Mobile; Palm's webOS would not arrive until 2009.
 
 But the iPhone was the first truly "smart" smartphone.
 
@@ -80,11 +80,11 @@ Inside the iPhone were several tiny sensors:
 
 Accelerometer, measuring device acceleration. When the phone was rotated, it detected changes in gravity direction and notified the operating system to rotate the screen.
 
-Gyroscope, measuring angular velocity. More precise than the accelerometer, it could detect minute rotations of the device.
-
 Proximity sensor, detecting distance between device and objects. When the phone was held to the ear for a call, it automatically turned off the screen to prevent accidental touches.
 
 Ambient light sensor, detecting ambient light intensity. In bright light, the screen automatically brightened; in dim light, it automatically dimmed.
+
+The original iPhone did not include a gyroscope; precise angular-rate sensing became standard with the iPhone 4 in 2010.
 
 These sensors allowed the phone to "perceive" the environment and user behavior. The phone was no longer a passive device but an active participant.
 
@@ -248,7 +248,7 @@ He changed phones, changed music, changed movies, changed personal computers. He
 
 **Five years later, 2016**: Nearly a decade after the iPhone's birth, global smartphone users exceeded 2 billion. China became the largest smartphone market, with Huawei, Xiaomi, OPPO, and vivo rising.
 
-**Ten years later, 2021**: Global smartphone shipments peaked, and the market entered stock competition. Foldable phones began commercialization.
+**Around 2017**: Global smartphone shipments peaked, and the market entered stock competition. Foldable phones commercialized in later years.
 
 **Twenty years later, 2031**: When smartphones are replaced by new computing platforms, when AR glasses and brain-computer interfaces become mainstream, will people still remember that "piece of glass without a keyboard"?
 
